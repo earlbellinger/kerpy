@@ -1,2 +1,7 @@
 # kerpy
-linear adiabatic structure kernels for asteroseismology in python 
+Linear adiabatic structure kernels for asteroseismology in python 
+
+Contributors: 
+* Earl Bellinger
+* Warrick Ball
+* Jørgen Christensen-Dalsgaard 
