@@ -91,7 +91,7 @@ cs2 = G1*P/rho # square of the adiabatic sound speed
 
 
 ## solve the homogeneous eigenvalue problem for lambda ~ 1
-# ref: Bellinger et al. ApJ accepted, Appendix eq. (A9)
+# ref: Bellinger et al. ApJ 2021, Appendix eq. (A9)
 # var_ denotes a spline interpolation of var 
 rho_ = InterpolatedUnivariateSpline(r, rho)
 P_   = InterpolatedUnivariateSpline(r, P)
